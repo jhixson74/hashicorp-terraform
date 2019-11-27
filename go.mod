@@ -43,8 +43,8 @@ require (
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/go-cmp v0.3.1
 	github.com/google/uuid v1.1.1
-	github.com/gophercloud/gophercloud v0.0.0-20190208042652-bc37892e1968
-	github.com/gophercloud/utils v0.0.0-20190128072930-fbb6ab446f01 // indirect
+	github.com/gophercloud/gophercloud v0.6.1-0.20191127023939-978be3847c66
+	github.com/gophercloud/utils v0.0.0-20191127023131-25012218dfd5
 	github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 // indirect
 	github.com/gorilla/websocket v1.4.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
@@ -136,7 +136,7 @@ require (
 	google.golang.org/api v0.9.0
 	google.golang.org/grpc v1.21.1
 	gopkg.in/ini.v1 v1.42.0 // indirect
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.4
 )
 
 go 1.12
